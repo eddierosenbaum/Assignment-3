@@ -1,0 +1,19 @@
+
+h1 {
+  background: #1748CE; border: 3px solid #1C6EA4;font-family: #A4A096;;
+h2 { background: #A4A096; }
+body color: #CECCBC;
+
+}
+<script src='https://static-assets.mapbox.com/gl-pricing/dist/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
+
+#alertButton {
+  padding: 20px;
+  border-radius: 15px;
+  font-weight: 800;
+  -webkit-box-shadow: 6px 6px 8px 7px rgba(0, 0, 0, 0.71);
+  box-shadow: 6px 6px 8px 7px rgba(0, 0, 0, 0.71);
+
+background: #144E75; }
+<button id="alert-button">
