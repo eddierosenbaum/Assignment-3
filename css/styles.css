@@ -19,5 +19,9 @@ body {
   font-weight: 800;
   -webkit-box-shadow: 6px 6px 8px 7px rgba(0, 0, 0, 0.71);
   box-shadow: 6px 6px 8px 7px rgba(0, 0, 0, 0.71);
-  background: #144E75; 
+  background: #144E75;
+}
+
+#map {
+  height: 450px;
 }
