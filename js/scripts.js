@@ -57,6 +57,11 @@ var clinics= [
     lat: 48.7193748,
     name: 'Komyshne'
   },
+  {
+    lng: 39.6234141,
+    lat: 48.7193748,
+    name: 'Komyshne'
+  },
 ];
 console.log(clinics)
 clinics.forEach(function(clinic) {
